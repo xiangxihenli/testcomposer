@@ -1,0 +1,16 @@
+{
+    "name": "xiangxihenli/first-package",
+    "description": "测试上传包",
+    "authors": [
+        {
+            "name": "xiangxihenli",
+            "email": "xiangxihenli@163.com"
+        }
+    ],
+    "require": {},
+    "autoload": {
+        "psr-4": {
+            "Xiangxihenli\\": "src/"
+        }
+    }
+}
